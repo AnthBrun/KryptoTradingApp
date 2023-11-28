@@ -32,6 +32,7 @@ The 'password_hash' is salted with "fuckjava" before
 jdk 18.0.2  
 javafx sdk 20.0.2
 
+Written with Intellij
 &copy; by Philipp Mikos & Anthony Brunner
 
 
